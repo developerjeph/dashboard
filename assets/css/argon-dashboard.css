@@ -17,13 +17,13 @@
   --bs-cyan: #0dcaf0;
   --bs-white: #fff;
   --bs-gray: #6c757d;
-  --bs-gray-dark: #343a40;
+  --bs-gray-dark: #1c1c1c;
   --bs-gray-100: #f8f9fa;
   --bs-gray-200: #e9ecef;
   --bs-gray-300: #dee2e6;
   --bs-gray-400: #ced4da;
   --bs-gray-500: #adb5bd;
-  --bs-gray-600: #6c757d;
+  --bs-gray-600: #02325c;
   --bs-gray-700: #495057;
   --bs-gray-800: #343a40;
   --bs-gray-900: #212529;
@@ -5140,11 +5140,11 @@ fieldset:disabled .btn {
   --bs-card-inner-border-radius: 1rem;
   --bs-card-cap-padding-y: 0.5rem;
   --bs-card-cap-padding-x: 1rem;
-  --bs-card-cap-bg: #fff;
+  --bs-card-cap-bg: rgb(000,116,248);
   --bs-card-cap-color: ;
   --bs-card-height: ;
   --bs-card-color: ;
-  --bs-card-bg: #fff;
+  --bs-card-bg: #000000;
   --bs-card-img-overlay-padding: 1rem;
   --bs-card-group-margin: 0.75rem;
   position: relative;
@@ -10580,7 +10580,7 @@ fieldset:disabled .btn {
 }
 
 .bg-primary {
-  background-color: #5e72e4 !important;
+  background-color: #7d858b !important;
 }
 
 .bg-secondary {
@@ -10624,7 +10624,7 @@ fieldset:disabled .btn {
 }
 
 .bg-gray-100 {
-  background-color: #f8f9fa !important;
+  background-color: #7d858b !important;
 }
 
 .bg-gray-200 {
@@ -20147,7 +20147,6 @@ fieldset:disabled .btn {
   align-items: center;
   justify-content: center;
   font-size: 1rem;
-  border-radius: 0.75rem;
   height: 48px;
   width: 48px;
   transition: all .2s ease-in-out;
