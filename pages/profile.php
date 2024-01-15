@@ -134,7 +134,7 @@
                Techub Africa.
               </h5>
               <p class="mb-0 font-weight-bold text-sm">
-              Softwares | Technological solutions in East Africa.
+              Softwares | Technological solutions in Africa.
               </p>
             </div>
           </div>
@@ -237,7 +237,7 @@
                 <div class="col-md-12">
                   <div class="form-group">
                     <label for="example-text-input" class="form-control-label">Tech Firm</label>
-                    <input class="form-control" type="text" value="Softwares | Technological solutions in East Africa.">
+                    <input class="form-control" type="text" value="Softwares | Technological solutions in Africa.">
                   </div>
                 </div>
               </div>

@@ -22581,6 +22581,7 @@ hr.horizontal.gray-light {
 }
 
 .navbar-vertical.navbar-expand-xs .navbar-nav .nav-item {
+  background: rgb(000,116,248);
   width: 100%;
 }
 
