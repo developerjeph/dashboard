@@ -5889,7 +5889,7 @@ fieldset:disabled .btn {
   display: block;
   padding: var(--bs-list-group-item-padding-y) var(--bs-list-group-item-padding-x);
   color: var(--bs-list-group-color);
-  background-color: var(--bs-list-group-bg);
+  background-color: black;
   border: var(--bs-list-group-border-width) solid var(--bs-list-group-border-color);
 }
 
@@ -22581,7 +22581,7 @@ hr.horizontal.gray-light {
 }
 
 .navbar-vertical.navbar-expand-xs .navbar-nav .nav-item {
-  background: rgb(000,116,248);
+  background:black;
   width: 100%;
 }
 
@@ -22613,9 +22613,10 @@ hr.horizontal.gray-light {
 }
 
 .navbar-vertical.navbar-expand-xs .navbar-nav .nav .nav-link {
-  padding-top: calc($navbar-vertical-nav-link-padding-y / 1.5);
-  padding-bottom: calc($navbar-vertical-nav-link-padding-y / 1.5);
-  padding-left: 15px;
+    background: #1e1e1e;
+    padding-top: 0.675rem;
+    padding-bottom: 0.675rem;
+    margin: 0 0.5rem;
 }
 
 .navbar-vertical.navbar-expand-xs .navbar-nav .nav .nav-link>span.sidenav-normal {
